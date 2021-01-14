@@ -8,6 +8,8 @@ This is just random text in the body
 
 This is **bold** text
 
+This is *italic* text
+
 If you want to make a list:
 
 - Item 1
